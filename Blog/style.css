@@ -29,6 +29,12 @@ body {
     margin: 0 20px;
 }
 
+#slogan {
+    font-size: 50px;
+    font-weight: bolder;
+    color: #636366;
+}
+
 
 .wrapper {
     width: 100%;
@@ -258,7 +264,7 @@ nav input[type='checkbox'] {
 
 .expandable_li {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
 }
 
