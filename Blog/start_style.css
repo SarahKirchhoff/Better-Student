@@ -308,6 +308,10 @@ nav input[type='checkbox'] {
     color: var(--accent-color2);
 }
 
+.header_absatz {
+    margin-bottom: 50px;
+}
+
 .subscribe {
     margin-top: 10px;
     display: flex;
