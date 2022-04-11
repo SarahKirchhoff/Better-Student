@@ -278,8 +278,28 @@ nav input[type='checkbox'] {
     margin-bottom: 30px;
 }
 
-.checkmark:before { content: '\2714'; margin-left: -20px; margin-right: 10px; } 
+.liste_buecher {
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
 
+blockquote {
+    border-left: 3px solid var(--accent-color2);
+    padding: 2px 5px;
+    font-style: italic;
+    margin: 20px 15px;
+}
+
+
+.checkmark:before { content: '\2714'; margin-left: -20px; margin-right: 0px; } 
+
+.buchlist:before { content: '\1F4D6	'; margin-left: -20px; margin-right: 10px; } 
+
+.buch_3saetze {
+    list-style-type: lower-roman;
+    margin-left: 20px; 
+    margin-right: 10px;
+}
 
 #img_whyread_head {
     object-position: 0 20%;
