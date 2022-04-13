@@ -301,6 +301,11 @@ blockquote {
     margin-right: 10px;
 }
 
+.indent_list {
+    margin-left: 30px; 
+    margin-right: 10px;
+}
+
 #img_whyread_head {
     object-position: 0 20%;
 }
