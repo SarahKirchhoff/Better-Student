@@ -61,7 +61,6 @@ body {
     display: flex;
     flex-flow: row wrap;
     padding: 5px;
-    margin: 50px 0px 100px 0px;
 }
 
 
@@ -416,7 +415,7 @@ nav input[type='checkbox'] {
 }
 
 .highlight-section {
-    margin-bottom: 50px;
+    margin: 50px 0px;
     padding: 20px;
     background-color: var(--background-color);
     border: 2px solid var(--accent-color);
