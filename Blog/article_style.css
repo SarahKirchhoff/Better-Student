@@ -437,8 +437,8 @@ blockquote {
 
 @media screen and (max-width: 910px) {
     .container {
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 50px;
+        margin-right: 50px;
     }
 }
 
@@ -448,3 +448,11 @@ blockquote {
         margin-right: 10px;
     }
 }
+
+@media screen and (max-width: 700px) {
+    .container h1 {
+        font-size: 200%;
+        font-weight: bold;
+    }
+}
+
