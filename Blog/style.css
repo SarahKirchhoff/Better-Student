@@ -352,17 +352,10 @@ nav input[type='checkbox'] {
 }
 
 
-.aboutme-list1 {
+.aboutme-list {
     margin: 10px;
     margin-bottom: 30px;
     padding-left: 30px;
-    list-style: decimal;
-}
-.aboutme-list2 {
-    margin: 10px;
-    margin-bottom: 50px;
-    padding-left: 30px;
-    list-style: decimal;
 }
 
 .aboutme-list li {
